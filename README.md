@@ -1,6 +1,6 @@
 # 🏋️ Gym Dataset Fat Prediction Project
 
-## 🐷 Project haqida 
+##  Project haqida 
 Bu project **odamlarning fitness malumotlariga asoslanib bodyfat (%) bashorat** qiladi. 
 Project **regression** turiga kiradi, yani maqsadimiz **sonli (continuous) qiymatni taxmin qilish**.
 
