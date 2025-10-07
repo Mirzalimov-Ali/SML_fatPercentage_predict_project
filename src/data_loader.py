@@ -32,7 +32,6 @@ class DataLoader:
             return merged_df
         else:
             logger.error("No data loaded! Check your file paths and filenames.")
-            return pd.DataFrame()
 
     def save_merged(self, df):
         save_path = os.path.join("data/raw", "gym_dataset.csv")
