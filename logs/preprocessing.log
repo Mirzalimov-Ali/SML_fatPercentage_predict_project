@@ -1,0 +1,435 @@
+2025-10-04 13:31:08,729 - INFO - use_preprocessing - dataset loaded with shape: (2644, 18)
+2025-10-04 13:31:08,730 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2644, 18)
+2025-10-04 13:31:08,731 - INFO - preprocessing - Missing values filled successfully!
+2025-10-04 13:31:08,738 - INFO - preprocessing - Encoding completed!
+2025-10-04 13:31:08,738 - INFO - use_preprocessing - data has preprocessed
+2025-10-04 13:31:08,739 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-04 13:45:34,007 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2644, 39)
+2025-10-04 13:45:34,011 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-04 13:45:34,011 - ERROR - preprocessing - Error in logTransformation: 'Categorical' with dtype category does not support reduction 'skew'
+2025-10-04 13:46:49,782 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2644, 37)
+2025-10-04 13:46:49,785 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-04 13:46:49,786 - INFO - preprocessing - Log transformation applied on ['calories_burned', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_60-79', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session']
+2025-10-06 14:14:48,217 - INFO - use_preprocessing - dataset loaded with shape: (2644, 18)
+2025-10-06 14:14:48,217 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2644, 18)
+2025-10-06 14:14:48,218 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 14:14:48,223 - INFO - preprocessing - Encoding completed!
+2025-10-06 14:14:48,223 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 14:14:48,223 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 14:14:54,750 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2644, 36)
+2025-10-06 14:14:54,753 - INFO - preprocessing - Scaling applied on 35 numerical features
+2025-10-06 14:14:54,755 - INFO - preprocessing - Log transformation applied on ['calories_burned', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_60-79', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session']
+2025-10-06 17:59:00,511 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-06 17:59:00,512 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-06 17:59:00,513 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 17:59:00,516 - INFO - preprocessing - Encoding completed!
+2025-10-06 17:59:00,516 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 17:59:00,516 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 18:01:03,096 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-06 18:01:03,099 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-06 18:01:03,101 - INFO - preprocessing - Log transformation applied on ['workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session']
+2025-10-06 18:05:43,969 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-06 18:05:43,970 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-06 18:05:43,970 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 18:05:43,975 - INFO - preprocessing - Encoding completed!
+2025-10-06 18:05:43,975 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 18:05:43,975 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 18:05:47,340 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-06 18:05:47,342 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-06 18:05:47,344 - INFO - preprocessing - Log transformation applied on ['workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session']
+2025-10-06 18:13:11,628 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-06 18:13:11,628 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-06 18:13:11,629 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 18:13:11,634 - INFO - preprocessing - Encoding completed!
+2025-10-06 18:13:11,634 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 18:13:11,634 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 18:13:13,935 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-06 18:13:13,938 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-06 18:13:13,940 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']
+2025-10-06 18:16:06,066 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-06 18:16:06,066 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-06 18:16:06,067 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 18:16:06,071 - INFO - preprocessing - Encoding completed!
+2025-10-06 18:16:06,071 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 18:16:06,071 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 18:16:09,373 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-06 18:16:09,377 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-06 18:16:09,379 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']
+2025-10-06 18:38:20,113 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-06 18:38:20,114 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-06 18:38:20,114 - INFO - preprocessing - Missing values filled successfully!
+2025-10-06 18:38:20,118 - INFO - preprocessing - Encoding completed!
+2025-10-06 18:38:20,118 - INFO - use_preprocessing - data has preprocessed
+2025-10-06 18:38:20,118 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-06 18:38:22,159 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-06 18:38:22,162 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-06 18:38:22,164 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']
+2025-10-07 09:53:23,666 - ERROR - notebook_preprocessing - error: [Errno 2] No such file or directory: '../data/raw/gym_dataset.csv'
+2025-10-07 09:54:14,579 - ERROR - notebook_preprocessing - error: [Errno 2] No such file or directory: '../data/raw/gym_dataset.csv'
+2025-10-07 09:54:30,401 - ERROR - notebook_preprocessing - error: [Errno 2] No such file or directory: '../data/raw/gym_dataset.csv'
+2025-10-07 09:58:25,537 - ERROR - notebook_preprocessing - error: [Errno 2] No such file or directory: '/data/raw/gym_dataset.csv'
+2025-10-07 09:58:27,243 - ERROR - notebook_preprocessing - error: [Errno 2] No such file or directory: '/data/raw/gym_dataset.csv'
+2025-10-07 10:23:24,037 - INFO - notebook_preprocessing - dataset imported successfully with shape: (973, 18)
+2025-10-07 10:23:32,671 - INFO - notebook_preprocessing - dataset imported successfully with shape: (973, 18)2025-10-07 10:31:24,307 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 32)
+2025-10-07 10:31:24,308 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 10:31:24,308 - INFO - preprocessing - Encoding completed!
+2025-10-07 10:31:24,308 - INFO - notebook_preprocessing - dataset successfully preprocessed
+2025-10-07 10:31:24,309 - INFO - notebook_preprocessing - missing values: 
+age                           0
+weight                        0
+height                        0
+max_bpm                       0
+avg_bpm                       0
+resting_bpm                   0
+session_duration              0
+calories_burned               0
+fat_percentage                0
+water_intake                  0
+workout_frequency             0
+experience_level              0
+bmi                           0
+gender_Female                 0
+gender_Male                   0
+workout_type_Cardio           0
+workout_type_HIIT             0
+workout_type_Strength         0
+workout_type_Yoga             0
+age_category_0-29             0
+age_category_30-39            0
+age_category_40-49            0
+age_category_50-100           0
+weight_category_100-130       0
+weight_category_40-59         0
+weight_category_60-79         0
+weight_category_80-99         0
+bmi_category_healthy          0
+bmi_category_obesity          0
+bmi_category_overweight       0
+bmi_category_sever obesity    0
+bmi_category_under weight     0
+dtype: int64
+2025-10-07 10:31:24,309 - INFO - notebook_preprocessing - object type columns: 0
+2025-10-07 10:33:22,348 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 32)
+2025-10-07 10:33:22,349 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 10:33:22,349 - INFO - preprocessing - Encoding completed!
+2025-10-07 10:33:22,349 - INFO - notebook_preprocessing - dataset successfully preprocessed
+2025-10-07 10:33:22,350 - INFO - notebook_preprocessing - missing values: 
+age                           0
+weight                        0
+height                        0
+max_bpm                       0
+avg_bpm                       0
+resting_bpm                   0
+session_duration              0
+calories_burned               0
+fat_percentage                0
+water_intake                  0
+workout_frequency             0
+experience_level              0
+bmi                           0
+gender_Female                 0
+gender_Male                   0
+workout_type_Cardio           0
+workout_type_HIIT             0
+workout_type_Strength         0
+workout_type_Yoga             0
+age_category_0-29             0
+age_category_30-39            0
+age_category_40-49            0
+age_category_50-100           0
+weight_category_100-130       0
+weight_category_40-59         0
+weight_category_60-79         0
+weight_category_80-99         0
+bmi_category_healthy          0
+bmi_category_obesity          0
+bmi_category_overweight       0
+bmi_category_sever obesity    0
+bmi_category_under weight     0
+dtype: int64
+2025-10-07 10:33:22,350 - INFO - notebook_preprocessing - object type columns: 0
+2025-10-07 10:50:59,728 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-07 10:50:59,732 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-07 10:50:59,734 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']
+2025-10-07 12:08:35,070 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:08:35,070 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:08:35,074 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:08:39,267 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:08:39,267 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:08:39,270 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:16:13,986 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:16:13,986 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:16:13,989 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:18:45,090 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:18:45,091 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:18:45,095 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:20:47,660 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:20:47,661 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:20:47,664 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:21:41,802 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:21:41,804 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:21:41,807 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:21:43,618 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:21:43,619 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:21:43,621 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:21:47,539 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:21:47,539 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:21:47,543 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:25:08,270 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:25:08,270 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:25:08,273 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:27:30,695 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:27:30,695 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:27:30,698 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:27:38,435 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:27:38,436 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:27:38,438 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:27:40,777 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:27:40,778 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:27:40,781 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:27:41,777 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:27:41,778 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:27:41,780 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:28:00,558 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:28:00,558 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:28:00,561 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:33:54,165 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:33:54,166 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:33:54,169 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:00,509 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:00,510 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:00,513 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:00,810 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:00,811 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:00,814 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:01,276 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:01,276 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:01,279 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:01,810 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:01,812 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:01,815 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:02,277 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:02,277 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:02,280 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:13,693 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:13,693 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:13,696 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:34:18,290 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:34:18,291 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:34:18,295 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:42:19,558 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:42:19,559 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:42:19,562 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:42:24,601 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:42:24,602 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:42:24,605 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:43:47,371 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:43:47,372 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:43:47,375 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:43:56,278 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:43:56,279 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:43:56,281 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:44:13,236 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:44:13,236 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:44:13,239 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:44:25,305 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:44:25,306 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:44:25,310 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:44:29,055 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:44:29,056 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:44:29,058 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:45:44,987 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:45:44,989 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:45:44,996 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:51:00,283 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:51:00,284 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:51:00,288 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:52:02,552 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:52:02,553 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:52:02,556 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:01,847 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:01,848 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:01,850 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:04,966 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:04,967 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:04,970 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:15,230 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:15,231 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:15,234 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:23,112 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:23,112 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:23,115 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:50,262 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:50,262 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:50,265 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:50,960 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:50,961 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:50,964 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:51,942 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:51,943 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:51,946 - INFO - preprocessing - Encoding completed!
+2025-10-07 12:59:52,814 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 12:59:52,814 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 12:59:52,817 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:00,025 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:00,026 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:00,029 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:10,537 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:10,538 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:10,541 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:11,262 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:11,263 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:11,266 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:17,162 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:17,164 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:17,167 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:19,461 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:19,462 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:19,465 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:28,500 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:28,502 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:28,505 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:37,102 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:37,104 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:37,106 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:49,527 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:49,528 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:49,531 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:00:55,445 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:00:55,446 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:00:55,494 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:01:03,318 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:01:03,318 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:01:03,322 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:01:19,345 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:01:19,346 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:01:19,350 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:01:27,702 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:01:27,702 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:01:27,707 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:01:35,485 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:01:35,486 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:01:35,489 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:18,050 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:18,050 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:18,053 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:31,969 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:31,969 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:31,972 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:39,421 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:39,422 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:39,424 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:43,986 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:43,987 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:43,990 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:49,584 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:49,584 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:49,588 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:02:55,036 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:02:55,037 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:02:55,040 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:03:01,792 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:03:01,792 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:03:01,795 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:03:12,670 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:03:12,670 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:03:12,674 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:03:15,999 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:03:16,000 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:03:16,003 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:06:35,886 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:06:35,886 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:06:35,890 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:10,452 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:10,453 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:10,456 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:19,581 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:19,582 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:19,584 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:26,381 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:26,382 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:26,386 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:36,406 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:36,407 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:36,410 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:45,093 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:45,094 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:45,097 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:07:54,780 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:07:54,781 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:07:54,784 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:08:01,172 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:08:01,173 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:08:01,177 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:08:09,032 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:08:09,033 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:08:09,036 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:08:23,391 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:08:23,392 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:08:23,395 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:31:00,105 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:31:00,106 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:31:00,109 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:35:20,840 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:35:20,840 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:35:20,843 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:37:25,564 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:37:25,565 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:37:25,568 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:37:27,279 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:37:27,280 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:37:27,283 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:37:29,936 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:37:29,936 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:37:29,939 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:37:36,834 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:37:36,834 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:37:36,837 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:37:46,353 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:37:46,355 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:37:46,359 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:45:03,241 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:45:03,242 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:45:03,245 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:46:50,621 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:46:50,622 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:46:50,625 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:49:19,060 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:49:19,062 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:49:19,065 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:50:25,313 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:50:25,314 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:50:25,317 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:52:18,985 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:52:18,986 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:52:18,988 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:52:24,161 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:52:24,162 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:52:24,164 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:01,665 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:01,666 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:01,669 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:08,740 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:08,741 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:08,744 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:27,259 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:27,260 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:27,263 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:32,129 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:32,130 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:32,134 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:38,924 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:38,925 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:38,929 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:47,864 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:47,865 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:47,867 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:55:50,673 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:55:50,674 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:55:50,676 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:56:03,808 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:56:03,809 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:56:03,811 - INFO - preprocessing - Encoding completed!
+2025-10-07 13:57:39,232 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 13:57:39,232 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 13:57:39,236 - INFO - preprocessing - Encoding completed!

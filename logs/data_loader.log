@@ -1,0 +1,14 @@
+2025-10-04 13:10:43,400 - INFO - data_loader - Loaded file: data/raw\gym_dataset_1.csv
+2025-10-04 13:10:43,403 - INFO - data_loader - Loaded file: data/raw\gym_dataset_2.csv
+2025-10-04 13:10:43,403 - INFO - data_loader - Data merged successfully. Shape: (2644, 18)
+2025-10-04 13:10:43,413 - INFO - data_loader - Merged data saved to data/raw\gym_dataset.csv
+2025-10-04 13:17:30,558 - INFO - data_loader - Loaded file: data/raw\gym_dataset_1.csv
+2025-10-04 13:17:30,560 - INFO - data_loader - Loaded file: data/raw\gym_dataset_2.csv
+2025-10-04 13:17:30,561 - INFO - data_loader - Data merged successfully. Shape: (2644, 18)
+2025-10-04 13:17:30,572 - INFO - data_loader - Merged data saved to data/raw\gym_dataset.csv
+2025-10-04 13:17:30,572 - INFO - use_data_loader - two datasets are merged
+2025-10-06 17:58:49,512 - INFO - data_loader - Loaded file: data/raw\gym_dataset_1.csv
+2025-10-06 17:58:49,514 - INFO - data_loader - Loaded file: data/raw\gym_dataset_2.csv
+2025-10-06 17:58:49,514 - INFO - data_loader - Data merged successfully. Shape: (973, 18)
+2025-10-06 17:58:49,518 - INFO - data_loader - Merged data saved to data/raw\gym_dataset.csv
+2025-10-06 17:58:49,518 - INFO - use_data_loader - two datasets are merged
