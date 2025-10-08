@@ -10,9 +10,6 @@ class FeatureCreation:
 
     def create_features(self):
         try:
-            self.df['bmi'] = self.df['weight'] / ((self.df['height'] / 100) ** 2) 
-            logger.info("Feature 'bmi' created")
-
             self.df['hrr'] = self.df['max_bpm'] - self.df['resting_bpm']    # Heart Rate Reserve - yani yurak urishi maximum qanchalik kattayadi
             logger.info("Feature 'hrr' created")
 

@@ -433,3 +433,15 @@ dtype: int64
 2025-10-07 13:57:39,232 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
 2025-10-07 13:57:39,232 - INFO - preprocessing - Missing values filled successfully!
 2025-10-07 13:57:39,236 - INFO - preprocessing - Encoding completed!
+2025-10-07 21:19:47,313 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-07 21:19:47,314 - INFO - preprocessing - Missing values filled successfully!
+2025-10-07 21:19:47,317 - INFO - preprocessing - Encoding completed!
+2025-10-08 20:07:53,246 - INFO - use_preprocessing - dataset loaded with shape: (973, 18)
+2025-10-08 20:07:53,247 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 18)
+2025-10-08 20:07:53,247 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 20:07:53,253 - INFO - preprocessing - Encoding completed!
+2025-10-08 20:07:53,253 - INFO - use_preprocessing - data has preprocessed
+2025-10-08 20:07:53,254 - INFO - use_preprocessing - file created to path: data/preprocessed\preprocessed_gym_dataset.csv
+2025-10-08 20:07:58,673 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
+2025-10-08 20:07:58,676 - INFO - preprocessing - Scaling applied on 36 numerical features
+2025-10-08 20:07:58,678 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']

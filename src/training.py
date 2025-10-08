@@ -34,7 +34,8 @@ class Trainer:
                     threshold = 0
                 elif model_name in ['RidgeCV']:
                     threshold = importances.mean()
-
+                else:
+                    threshold = 0
             else:
                 importances = pd.Series(np.ones(len(self.x_train.columns)), index=self.x_train.columns)
                 threshold = 0

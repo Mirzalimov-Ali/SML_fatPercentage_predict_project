@@ -100,21 +100,21 @@ try:
         if row == best_model:
             table.add_row(
                 f"[bold green]{algo}[/bold green]",
-                f"[bold green]{r2:.6f}[/bold green]",
-                f"[bold green]{mae:.6f}[/bold green]",
-                f"[bold green]{kmean:.6f}[/bold green]",
-                f"[bold green]{kstd:.6f}[/bold green]"
+                f"[bold green]{r2:.3f}[/bold green]",
+                f"[bold green]{mae:.3f}[/bold green]",
+                f"[bold green]{kmean:.3f}[/bold green]",
+                f"[bold green]{kstd:.3f}[/bold green]"
             )
         elif row == worst_model:
             table.add_row(
                 f"[bold red]{algo}[/bold red]",
-                f"[bold red]{r2:.6f}[/bold red]",
-                f"[bold red]{mae:.6f}[/bold red]",
-                f"[bold red]{kmean:.6f}[/bold red]",
-                f"[bold red]{kstd:.6f}[/bold red]"
+                f"[bold red]{r2:.3f}[/bold red]",
+                f"[bold red]{mae:.3f}[/bold red]",
+                f"[bold red]{kmean:.3f}[/bold red]",
+                f"[bold red]{kstd:.3f}[/bold red]"
             )
         else:
-            table.add_row(algo, f"{r2:.6f}", f"{mae:.6f}", f"{kmean:.6f}", f"{kstd:.6f}")
+            table.add_row(algo, f"{r2:.3f}", f"{mae:.3f}", f"{kmean:.3f}", f"{kstd:.3f}")
             
     logger.info(f"\n{table}")
 
