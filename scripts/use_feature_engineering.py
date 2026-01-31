@@ -1,41 +1,37 @@
 import pandas as pd
-from src.logger import get_logger
-from src.feature_engineering import FeatureCreation
-from src.preprocessing import Preprocessing
 import os
+from src.feature_engineering import FeatureEngineering
+from joblib import dump
+from src.logger import get_logger
 
 logger = get_logger('use_feature_engineering', 'feature_engineering.log')
 
-df = pd.read_csv('data/preprocessed/preprocessed_gym_dataset.csv')
-logger.info(f'dataset loaded with shape: {df.shape}')
+# ============ DATA LOAD ============
+filled_x_train = pd.read_csv('data/filled/filled_x_train.csv')
+filled_x_test = pd.read_csv('data/filled/filled_x_test.csv')
 
-fc = FeatureCreation(df)
-df = fc.create_features().getDataset()
-logger.info(f'new features added')
+# ============ TRAIN ============
+feature_engineering = FeatureEngineering()
+engineered_x_train = feature_engineering.fit_transform(filled_x_train)
+logger.info("Feature engineering completed for TRAIN dataset.")
 
-# save dataset
-output_folder = 'data/engineered'
+# ============ SAVE PIPELINE ============
+os.makedirs('pipeline', exist_ok=True)
+
+dump(feature_engineering, 'pipeline/engineered_pipeline.joblib')
+logger.info("Feature engineering pipeline saved to pipeline/feature_engineering.joblib")
+
+# ============ TEST ============
+engineered_x_test = feature_engineering.transform(filled_x_test)
+logger.info("Feature engineering completed for TEST dataset.")
+
+# ============ SAVE DATASET ============
 os.makedirs('data/engineered', exist_ok=True)
 
-output_path = os.path.join(output_folder, 'engineered_gym_dataset.csv')
-logger.info(f'file created to path: {output_path}')
+engineered_x_train.to_csv('data/engineered/engineered_x_train.csv', index=False)
+logger.info("Engineered dataset saved to data/engineered/engineered_x_train.csv")
 
-df.to_csv(output_path, index=False)
+engineered_x_test.to_csv('data/engineered/engineered_x_test.csv', index=False)
+logger.info("Engineered dataset saved to data/engineered/engineered_x_test.csv")
 
-
-# ______________________________________ preprocessing (scaling, transformation) ______________________________________
-
-preprocessing = Preprocessing(df)
-df = preprocessing.scale().logTransformation().getDataset()
-logger.info(f'preprocessed (scaled, transformed): {df.info}')
-
-
-output_folder = 'data/final'
-os.makedirs('data/final', exist_ok=True)
-
-output_path = os.path.join(output_folder, 'final_gym_dataset.csv')
-logger.info(f'file created to path: {output_path}')
-
-df.to_csv(output_path, index=False)
-
-print(df.head(10))
+logger.info("Successfully engineered the dataset and saved all outputs!")

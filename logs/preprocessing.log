@@ -445,3 +445,1264 @@ dtype: int64
 2025-10-08 20:07:58,673 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (973, 37)
 2025-10-08 20:07:58,676 - INFO - preprocessing - Scaling applied on 36 numerical features
 2025-10-08 20:07:58,678 - INFO - preprocessing - Log transformation applied on ['weight', 'bmi', 'workout_type_Cardio', 'workout_type_HIIT', 'workout_type_Strength', 'workout_type_Yoga', 'age_category_0-29', 'age_category_30-39', 'age_category_40-49', 'age_category_50-100', 'weight_category_100-130', 'weight_category_40-59', 'weight_category_80-99', 'bmi_category_healthy', 'bmi_category_obesity', 'bmi_category_overweight', 'bmi_category_sever obesity', 'bmi_category_under weight', 'water_per_session', 'experience_intensity_ratio']
+2025-10-08 21:28:49,975 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-08 21:28:49,975 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:28:49,980 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:30:08,846 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-08 21:30:08,847 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:30:08,851 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:30:24,244 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-08 21:30:24,245 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:30:24,247 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:31:19,246 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-08 21:31:19,247 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:31:19,249 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:31:40,038 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 17)
+2025-10-08 21:31:40,039 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:31:40,042 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:34:01,271 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 17)
+2025-10-08 21:34:01,271 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:34:01,274 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:35:14,332 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (1, 2)
+2025-10-08 21:35:14,333 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:35:14,333 - ERROR - preprocessing - Error in encode: unhashable type: 'dict'
+2025-10-08 21:35:41,440 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:35:41,440 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:35:41,443 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:36:11,756 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:36:11,757 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:36:11,761 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:36:12,637 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:36:12,637 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:36:12,640 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:36:13,107 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:36:13,109 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:36:13,112 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:36:13,484 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:36:13,484 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:36:13,488 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:37:30,477 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:37:30,478 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:37:30,481 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:37:31,180 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:37:31,180 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:37:31,183 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:37:31,461 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:37:31,462 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:37:31,464 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:37:31,723 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:37:31,723 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:37:31,726 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:39:56,373 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:39:56,374 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:39:56,377 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:06,028 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:06,029 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:06,032 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:31,092 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:31,092 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:31,095 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:33,318 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:33,318 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:33,321 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:33,771 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:33,772 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:33,775 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:39,981 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:39,982 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:39,984 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:48,022 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:48,023 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:48,025 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:54,031 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:54,032 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:54,035 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:40:58,773 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:40:58,774 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:40:58,777 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:41:11,805 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:41:11,805 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:41:11,809 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:41:17,542 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:41:17,543 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:41:17,546 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:41:23,580 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:41:23,581 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:41:23,585 - INFO - preprocessing - Encoding completed!
+2025-10-08 21:43:43,724 - INFO - preprocessing - Preprocessing initialized with dataset of shape: (2, 18)
+2025-10-08 21:43:43,725 - INFO - preprocessing - Missing values filled successfully!
+2025-10-08 21:43:43,729 - INFO - preprocessing - Encoding completed!
+2025-12-13 11:59:19,182 - INFO - preprocessing - Filled NUMERIC columns with MEAN: ['age', 'weight', 'height', 'max_bpm', 'avg_bpm', 'resting_bpm', 'session_duration', 'calories_burned', 'fat_percentage', 'water_intake', 'workout_frequency', 'experience_level', 'bmi']
+2025-12-13 11:59:19,184 - INFO - preprocessing - Filled CATEGORICAL column 'gender' with MODE: Male
+2025-12-13 11:59:19,184 - INFO - preprocessing - Filled CATEGORICAL column 'workout_type' with MODE: Strength
+2025-12-13 11:59:19,184 - INFO - preprocessing - Filled CATEGORICAL column 'age_category' with MODE: 0-29
+2025-12-13 11:59:19,185 - INFO - preprocessing - Filled CATEGORICAL column 'weight_category' with MODE: 60-79
+2025-12-13 11:59:19,185 - INFO - preprocessing - Filled CATEGORICAL column 'bmi_category' with MODE: healthy
+2025-12-13 11:59:19,185 - INFO - preprocessing - Missing values filled successfully.
+2025-12-13 11:59:19,185 - INFO - use_fillMissingValues - Preprocessing steps completed successfully.
+2025-12-13 11:59:19,193 - INFO - use_fillMissingValues - Filled dataset saved to data/filled/filled_dataset.csv
+2025-12-13 11:59:19,194 - INFO - use_fillMissingValues - Preprocessing pipeline saved to pipeline/filled_pipeline.joblib
+2025-12-13 11:59:19,194 - INFO - use_fillMissingValues - Successfully filled the dataset and saved all outputs!
+2025-12-13 11:59:38,540 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 11:59:38,540 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 11:59:38,540 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 11:59:38,540 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 11:59:38,541 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 11:59:38,541 - INFO - preprocessing - All categorical features encoded using Ordinal Encoding.
+2025-12-13 11:59:38,559 - INFO - preprocessing - Numerical scaling applied to 23 columns using MinMaxScaler().
+2025-12-13 11:59:38,559 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2025-12-13 11:59:38,571 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_dataset.csv
+2025-12-13 11:59:38,574 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprocessed_pipeline.joblib
+2025-12-13 11:59:38,574 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!
+2025-12-13 13:16:36,698 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:16:36,698 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:16:36,699 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:16:36,699 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:16:36,699 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:16:36,700 - INFO - preprocessing - All categorical features encoded using Ordinal Encoding.
+2025-12-13 13:16:36,727 - INFO - preprocessing - Numerical scaling applied to 36 columns using MinMaxScaler().
+2025-12-13 13:16:36,727 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2025-12-13 13:16:36,746 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_dataset.csv
+2025-12-13 13:16:36,752 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprocessed_pipeline.joblib
+2025-12-13 13:16:36,752 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!
+2025-12-13 13:21:15,966 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:22:29,457 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:23:53,653 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:23:53,653 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:23:53,653 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:23:53,654 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:23:53,654 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:23:53,655 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:23:53,656 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:23:53,657 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:23:53,658 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:23:53,659 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:23:53,660 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:23:53,660 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:23:53,661 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:23:53,662 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:23:53,663 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:23:53,664 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:23:53,664 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:23:53,665 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:23:53,666 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:23:53,667 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:23:53,668 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:23:53,668 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:23:53,669 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:23:53,670 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:23:53,671 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:23:53,672 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:23:53,672 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:23:53,673 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:23:53,673 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:23:53,674 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:23:53,675 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:23:53,676 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:23:53,676 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:23:53,677 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:23:53,677 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:23:53,678 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:23:53,679 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:23:53,679 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:23:53,680 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:23:53,681 - INFO - preprocessing - Scaled column: experience_frequency_score
+2025-12-13 13:24:00,510 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:24:00,510 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:24:00,510 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:24:00,510 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:24:00,511 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:24:00,512 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:24:00,512 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:24:00,513 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:24:00,514 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:24:00,515 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:24:00,516 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:24:00,517 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:24:00,517 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:24:00,518 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:24:00,519 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:24:00,520 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:24:00,521 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:24:00,521 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:24:00,522 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:24:00,523 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:24:00,524 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:24:00,524 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:24:00,525 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:24:00,526 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:24:00,527 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:24:00,527 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:24:00,528 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:24:00,529 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:24:00,530 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:24:00,531 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:24:00,531 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:24:00,532 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:24:00,533 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:24:00,534 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:24:00,535 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:24:00,536 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:24:00,537 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:24:00,538 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:24:00,538 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:24:00,539 - INFO - preprocessing - Scaled column: experience_frequency_score
+2025-12-13 13:24:06,356 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:24:06,357 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:24:06,357 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:24:06,357 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:24:06,357 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:24:06,358 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:24:06,359 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:24:06,360 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:24:06,361 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:24:06,361 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:24:06,362 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:24:06,363 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:24:06,364 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:24:06,365 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:24:06,366 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:24:06,366 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:24:06,367 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:24:06,368 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:24:06,368 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:24:06,369 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:24:06,369 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:24:06,370 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:24:06,371 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:24:06,372 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:24:06,372 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:24:06,373 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:24:06,373 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:24:06,374 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:24:06,375 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:24:06,375 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:24:06,376 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:24:06,376 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:24:06,377 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:24:06,378 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:24:06,378 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:24:06,379 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:24:06,380 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:24:06,380 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:24:06,381 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:24:06,382 - INFO - preprocessing - Scaled column: experience_frequency_score
+2025-12-13 13:24:09,965 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:24:09,965 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:24:09,965 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:24:09,966 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:24:09,966 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:24:09,967 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:24:09,968 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:24:09,969 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:24:09,970 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:24:09,970 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:24:09,971 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:24:09,972 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:24:09,973 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:24:09,973 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:24:09,974 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:24:09,974 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:24:09,975 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:24:09,976 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:24:09,977 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:24:09,978 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:24:09,978 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:24:09,979 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:24:09,979 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:24:09,980 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:24:09,981 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:24:09,981 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:24:09,982 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:24:09,983 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:24:09,983 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:24:09,984 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:24:09,985 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:24:09,986 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:24:09,986 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:24:09,987 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:24:09,988 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:24:09,988 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:24:09,989 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:24:09,990 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:24:09,990 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:24:09,991 - INFO - preprocessing - Scaled column: experience_frequency_score
+2025-12-13 13:24:13,187 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:24:13,188 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:24:13,188 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:24:13,188 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:24:13,188 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:24:13,189 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:24:13,190 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:24:13,191 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:24:13,192 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:24:13,193 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:24:13,193 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:24:13,194 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:24:13,195 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:24:13,196 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:24:13,197 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:24:13,198 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:24:13,199 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:24:13,200 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:24:13,201 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:24:13,201 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:24:13,202 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:24:13,203 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:24:13,204 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:24:13,205 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:24:13,206 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:24:13,206 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:24:13,207 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:24:13,208 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:24:13,209 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:24:13,209 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:24:13,210 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:24:13,211 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:24:13,211 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:24:13,212 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:24:13,213 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:24:13,214 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:24:13,214 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:24:13,215 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:24:13,216 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:24:13,216 - INFO - preprocessing - Scaled column: experience_frequency_score
+2025-12-13 13:25:37,058 - INFO - preprocessing - Applied Ordinal Encoding to column: gender
+2025-12-13 13:25:37,058 - INFO - preprocessing - Applied Ordinal Encoding to column: workout_type
+2025-12-13 13:25:37,058 - INFO - preprocessing - Applied Ordinal Encoding to column: age_category
+2025-12-13 13:25:37,059 - INFO - preprocessing - Applied Ordinal Encoding to column: weight_category
+2025-12-13 13:25:37,059 - INFO - preprocessing - Applied Ordinal Encoding to column: bmi_category
+2025-12-13 13:25:37,060 - INFO - preprocessing - Scaled column: age
+2025-12-13 13:25:37,061 - INFO - preprocessing - Scaled column: gender
+2025-12-13 13:25:37,062 - INFO - preprocessing - Scaled column: weight
+2025-12-13 13:25:37,063 - INFO - preprocessing - Scaled column: height
+2025-12-13 13:25:37,064 - INFO - preprocessing - Scaled column: max_bpm
+2025-12-13 13:25:37,065 - INFO - preprocessing - Scaled column: avg_bpm
+2025-12-13 13:25:37,065 - INFO - preprocessing - Scaled column: resting_bpm
+2025-12-13 13:25:37,066 - INFO - preprocessing - Scaled column: session_duration
+2025-12-13 13:25:37,067 - INFO - preprocessing - Scaled column: calories_burned
+2025-12-13 13:25:37,068 - INFO - preprocessing - Scaled column: workout_type
+2025-12-13 13:25:37,069 - INFO - preprocessing - Scaled column: water_intake
+2025-12-13 13:25:37,070 - INFO - preprocessing - Scaled column: workout_frequency
+2025-12-13 13:25:37,071 - INFO - preprocessing - Scaled column: experience_level
+2025-12-13 13:25:37,071 - INFO - preprocessing - Scaled column: bmi
+2025-12-13 13:25:37,072 - INFO - preprocessing - Scaled column: age_category
+2025-12-13 13:25:37,073 - INFO - preprocessing - Scaled column: weight_category
+2025-12-13 13:25:37,074 - INFO - preprocessing - Scaled column: bmi_category
+2025-12-13 13:25:37,075 - INFO - preprocessing - Scaled column: hrr
+2025-12-13 13:25:37,075 - INFO - preprocessing - Scaled column: intensity
+2025-12-13 13:25:37,076 - INFO - preprocessing - Scaled column: cardio_load
+2025-12-13 13:25:37,077 - INFO - preprocessing - Scaled column: weekly_cardio_load
+2025-12-13 13:25:37,078 - INFO - preprocessing - Scaled column: bpm_efficiency
+2025-12-13 13:25:37,079 - INFO - preprocessing - Scaled column: calories_per_min
+2025-12-13 13:25:37,079 - INFO - preprocessing - Scaled column: calories_per_kg
+2025-12-13 13:25:37,080 - INFO - preprocessing - Scaled column: fat_burn_efficiency
+2025-12-13 13:25:37,081 - INFO - preprocessing - Scaled column: weight_height_ratio
+2025-12-13 13:25:37,082 - INFO - preprocessing - Scaled column: bmi_age_interaction
+2025-12-13 13:25:37,083 - INFO - preprocessing - Scaled column: weight_age_ratio
+2025-12-13 13:25:37,083 - INFO - preprocessing - Scaled column: fat_risk_score
+2025-12-13 13:25:37,084 - INFO - preprocessing - Scaled column: water_per_session
+2025-12-13 13:25:37,085 - INFO - preprocessing - Scaled column: water_per_kg
+2025-12-13 13:25:37,086 - INFO - preprocessing - Scaled column: hydration_score
+2025-12-13 13:25:37,087 - INFO - preprocessing - Scaled column: experience_intensity_ratio
+2025-12-13 13:25:37,087 - INFO - preprocessing - Scaled column: experience_load
+2025-12-13 13:25:37,088 - INFO - preprocessing - Scaled column: experience_frequency_score
+2026-01-31 14:49:56,662 - INFO - preprocessing TRAIN - KNNImputer applied to numeric columns: ['age', 'weight', 'height', 'max_bpm', 'avg_bpm', 'resting_bpm', 'session_duration', 'calories_burned', 'water_intake', 'workout_frequency', 'experience_level', 'bmi']
+2026-01-31 14:49:56,663 - INFO - preprocessing TRAIN - Filled CATEGORICAL column 'gender' with MODE: Male
+2026-01-31 14:49:56,663 - INFO - preprocessing TRAIN - Filled CATEGORICAL column 'workout_type' with MODE: Strength
+2026-01-31 14:49:56,663 - INFO - preprocessing TRAIN - Filled CATEGORICAL column 'age_category' with MODE: 0-29
+2026-01-31 14:49:56,664 - INFO - preprocessing TRAIN - Filled CATEGORICAL column 'weight_category' with MODE: 60-79
+2026-01-31 14:49:56,664 - INFO - preprocessing TRAIN - Filled CATEGORICAL column 'bmi_category' with MODE: healthy
+2026-01-31 14:49:56,664 - INFO - preprocessing TRAIN - Missing values filled successfully (TRAIN)
+2026-01-31 14:49:56,664 - INFO - use_filling - Preprocessing steps completed successfully.
+2026-01-31 14:49:56,666 - INFO - use_filling - Preprocessing pipeline saved to pipeline/filled_x_train.joblib
+2026-01-31 14:49:56,667 - INFO - use_filling - Preprocessing steps completed successfully.
+2026-01-31 14:49:56,671 - INFO - use_filling - Filled dataset saved to data/filled/filled_x_train.csv
+2026-01-31 14:49:56,672 - INFO - use_filling - Filled dataset saved to data/filled/filled_x_test.csv
+2026-01-31 14:49:56,672 - INFO - use_filling - Successfully filled the dataset and saved all outputs!
+2026-01-31 14:50:09,789 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 14:50:09,790 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 14:50:09,790 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 14:50:09,791 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 14:50:09,792 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 14:50:09,792 - INFO - preprocessing TRAIN - All categorical features encoded using Ordinal Encoding.
+2026-01-31 14:50:09,795 - INFO - preprocessing TRAIN - Log transformation applied to: ['weight', 'bmi', 'bmi_category', 'weekly_cardio_load', 'weight_height_ratio', 'bmi_age_interaction', 'weight_age_ratio', 'fat_risk_score', 'water_per_session', 'hydration_score', 'experience_intensity_ratio', 'experience_load', 'experience_frequency_score']
+2026-01-31 14:50:09,797 - INFO - preprocessing TRAIN - Numerical scaling applied to 35 columns using StandardScaler()
+2026-01-31 14:50:09,797 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-01-31 14:50:09,799 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprodessed_pipeline.joblib
+2026-01-31 14:50:09,800 - INFO - preprocessing TEST - [TEST] Ordinal encoded: gender
+2026-01-31 14:50:09,800 - INFO - preprocessing TEST - [TEST] Ordinal encoded: workout_type
+2026-01-31 14:50:09,801 - INFO - preprocessing TEST - [TEST] Ordinal encoded: age_category
+2026-01-31 14:50:09,801 - INFO - preprocessing TEST - [TEST] Ordinal encoded: weight_category
+2026-01-31 14:50:09,801 - INFO - preprocessing TEST - [TEST] Ordinal encoded: bmi_category
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weekly_cardio_load
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_height_ratio
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi_age_interaction
+2026-01-31 14:50:09,802 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_age_ratio
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: fat_risk_score
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: water_per_session
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: hydration_score
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_intensity_ratio
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_load
+2026-01-31 14:50:09,803 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_frequency_score
+2026-01-31 14:50:09,805 - INFO - preprocessing TEST - [TEST] Scaled numeric columns using StandardScaler
+2026-01-31 14:50:09,805 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-01-31 14:50:09,821 - INFO - use_preprocessing - reprocessed dataset saved to data/preprocessed/preprocessed_x_train.csv
+2026-01-31 14:50:09,826 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_x_test.csv
+2026-01-31 14:50:09,826 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!
+2026-01-31 14:51:05,571 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 14:51:05,571 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 14:51:05,572 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 14:51:05,572 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 14:51:05,572 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 14:51:05,572 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 14:51:05,580 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 14:51:05,581 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 14:51:05,582 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 14:51:05,582 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 14:51:05,583 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 14:51:05,583 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 14:51:05,584 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 14:51:05,584 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_category
+2026-01-31 14:51:05,585 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 14:51:05,585 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 14:51:05,585 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 14:51:05,586 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 14:51:05,586 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 14:51:05,586 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 14:51:05,587 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 14:51:05,587 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 14:51:05,587 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 14:51:05,587 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 14:51:05,591 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 14:59:59,224 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 14:59:59,225 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 14:59:59,225 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 14:59:59,225 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 14:59:59,226 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 14:59:59,226 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 14:59:59,233 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 14:59:59,234 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 14:59:59,235 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 14:59:59,235 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 14:59:59,236 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 14:59:59,236 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 14:59:59,236 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 14:59:59,237 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 14:59:59,237 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 14:59:59,237 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 14:59:59,238 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 14:59:59,238 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 14:59:59,238 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 14:59:59,238 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 14:59:59,239 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 14:59:59,239 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 14:59:59,239 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 14:59:59,243 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:21,325 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:21,329 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:21,329 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:21,329 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:21,330 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:21,330 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:21,330 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:21,330 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:21,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:21,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:21,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:21,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:21,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:21,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:21,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:21,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:21,334 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:21,334 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:21,339 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:24,855 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:24,856 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:24,856 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:24,856 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:24,856 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:24,856 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:24,862 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:24,863 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:24,864 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:24,864 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:24,865 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:24,866 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:24,866 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:24,867 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:24,867 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:24,867 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:24,867 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:24,868 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:24,868 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:24,868 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:24,868 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:24,869 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:24,869 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:24,872 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:29,318 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:29,319 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:29,319 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:29,319 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:29,320 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:29,320 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:29,327 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:29,327 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:29,328 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:29,328 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:29,329 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:29,329 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:29,329 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:29,330 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:29,330 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:29,330 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:29,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:29,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:29,331 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:29,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:29,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:29,332 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:29,333 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:29,337 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:34,640 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:34,641 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:34,641 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:34,642 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:34,642 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:34,642 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:34,648 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:34,649 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:34,649 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:34,650 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:34,651 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:34,651 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:34,651 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:34,651 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:34,652 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:34,652 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:34,652 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:34,653 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:34,653 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:34,653 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:34,653 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:34,654 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:34,654 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:34,657 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:42,890 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:42,890 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:42,890 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:42,890 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:42,891 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:42,891 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:42,897 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:42,898 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:42,899 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:42,899 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:42,900 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:42,900 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:42,901 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:42,901 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:42,901 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:42,901 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:42,902 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:42,902 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:42,902 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:42,903 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:42,903 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:42,903 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:42,903 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:42,907 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:45,961 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:45,962 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:45,962 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:45,962 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:45,962 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:45,963 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:45,969 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:45,970 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:45,970 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:45,971 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:45,972 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:45,972 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:45,972 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:45,972 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:00:45,973 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:45,973 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:45,973 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:45,974 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:45,974 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:45,974 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:45,974 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:00:45,975 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:00:45,975 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:45,978 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:48,138 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:48,143 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:48,144 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:48,145 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:48,145 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:48,146 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:48,146 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:48,146 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:48,147 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:48,147 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:48,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:48,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:48,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:48,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:48,149 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:48,152 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:50,535 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:50,535 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:50,536 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:50,536 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:50,536 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:50,536 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:50,543 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:50,543 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:50,544 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:50,544 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:50,545 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:50,545 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:50,546 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:50,546 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:50,546 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:50,546 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:50,547 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:50,547 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:50,547 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:50,548 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:50,551 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:55,405 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:55,405 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:55,405 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:55,406 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:55,406 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:55,406 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:55,412 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:55,413 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:55,413 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:55,415 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:55,416 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:55,416 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:55,416 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:55,417 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:55,417 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:55,417 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:55,418 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:55,418 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:55,418 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:55,418 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:55,422 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:00:58,514 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:00:58,514 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:00:58,514 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:00:58,514 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:00:58,515 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:00:58,515 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:00:58,522 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:00:58,522 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:00:58,523 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:00:58,524 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:00:58,524 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:00:58,525 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:00:58,525 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:00:58,525 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:00:58,526 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:00:58,526 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:00:58,526 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:00:58,526 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:00:58,527 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:00:58,527 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:00:58,531 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:01,763 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:01,763 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:01,763 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:01,763 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:01,764 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:01,764 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:01,767 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:01,767 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:01,768 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:01,768 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:01,768 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:01,768 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:01,768 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:01,769 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:01,770 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:01,771 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:05,114 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:05,115 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:05,115 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:05,115 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:05,115 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:05,116 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:05,121 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:05,121 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:05,121 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:05,122 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:05,122 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:05,122 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:05,122 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:05,123 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:05,123 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:05,123 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:05,123 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:05,123 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:05,124 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:05,124 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:05,130 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:07,203 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:07,203 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:07,203 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:07,204 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:07,204 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:07,204 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:07,210 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:07,211 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:07,211 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:07,212 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:07,213 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:07,213 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:07,213 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:07,214 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:07,214 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:07,215 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:07,215 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:07,215 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:07,216 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:07,216 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:07,220 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:08,687 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:08,687 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:08,688 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:08,688 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:08,688 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:08,688 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:08,695 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:08,696 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:08,696 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:08,697 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:08,697 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:08,698 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:08,698 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:08,698 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:08,699 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:08,699 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:08,699 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:08,699 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:08,700 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:08,700 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:08,703 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:14,031 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:14,031 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:14,031 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:14,032 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:14,032 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:14,032 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:14,040 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:14,040 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:14,041 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:14,041 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:14,042 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:14,043 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:14,043 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:14,043 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:14,044 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:14,044 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:14,044 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:14,044 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:14,045 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:14,045 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:14,049 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:19,030 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:19,034 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:19,035 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:19,035 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:19,035 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:19,036 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:19,037 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:19,037 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:19,037 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:19,037 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:19,039 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:23,346 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:23,347 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:23,347 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:23,347 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:23,347 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:23,347 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:23,350 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:23,350 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:23,351 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:23,352 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:23,352 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:23,352 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:23,352 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:23,352 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:23,353 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:23,353 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:23,354 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:23,354 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:23,354 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:23,354 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:23,360 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:29,156 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:29,156 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:29,156 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:29,157 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:29,157 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:29,159 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:29,170 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:29,170 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:29,171 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:29,172 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:29,172 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:29,172 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:29,173 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:29,173 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:29,173 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:29,174 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:29,174 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:29,174 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:29,174 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:29,175 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:29,178 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:31,660 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:31,660 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:31,661 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:31,661 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:31,661 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:31,661 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:31,668 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:31,668 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:31,669 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:31,669 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:31,670 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:31,670 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:31,670 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:31,671 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:01:31,671 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:31,671 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:31,672 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:31,672 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:31,672 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:31,672 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:31,673 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:01:31,673 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:01:31,673 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:31,677 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:34,896 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:34,897 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:34,897 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:34,897 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:34,897 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:34,898 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:34,904 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:34,904 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:34,905 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:34,906 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:34,906 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:34,906 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:34,907 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:34,907 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:01:34,907 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:34,908 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:34,908 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:34,908 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:34,908 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:34,909 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:34,909 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:01:34,909 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:01:34,910 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:34,913 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:37,564 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:37,565 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:37,565 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:37,565 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:37,565 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:37,565 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:37,572 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:37,573 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:37,573 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:37,574 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:37,574 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:37,575 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:37,575 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:37,575 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:01:37,575 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:37,576 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:37,576 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:37,576 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:37,577 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:37,577 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:37,577 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:01:37,577 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:01:37,578 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:37,581 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:45,720 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:45,721 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:45,721 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:45,721 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:45,721 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:45,722 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:45,729 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:45,729 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:45,730 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:45,731 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:45,731 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:45,732 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:45,732 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:45,732 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_category
+2026-01-31 15:01:45,732 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:01:45,733 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:45,733 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:45,733 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:45,733 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:45,734 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:45,734 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:45,735 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:01:45,735 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:01:45,735 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:45,739 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:01:52,386 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:01:52,386 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:01:52,386 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:01:52,387 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:01:52,387 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:01:52,387 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:01:52,395 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:01:52,396 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:01:52,396 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:01:52,397 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:01:52,398 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:01:52,398 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:01:52,398 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:01:52,399 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:01:52,399 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:01:52,399 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:01:52,399 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:01:52,400 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:01:52,400 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:01:52,400 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:01:52,400 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:01:52,401 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:01:52,401 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:01:52,405 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:01,237 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:01,237 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:01,237 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:01,237 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:01,238 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:01,238 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:01,244 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:01,245 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:01,245 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:01,246 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:01,247 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:01,247 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:01,247 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:01,248 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:01,248 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:01,248 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:01,248 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:01,249 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:01,249 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:01,249 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:01,250 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:01,250 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:01,250 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:01,253 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:01,831 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:01,837 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:01,838 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:01,838 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:01,839 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:01,839 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:01,840 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:01,840 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:01,840 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:01,841 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:01,841 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:01,841 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:01,841 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:01,842 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:01,842 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:01,842 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:01,843 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:01,843 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:01,846 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:02,335 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:02,335 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:02,336 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:02,336 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:02,336 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:02,336 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:02,344 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:02,345 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:02,346 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:02,346 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:02,347 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:02,347 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:02,347 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:02,348 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:02,348 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:02,348 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:02,349 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:02,349 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:02,349 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:02,349 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:02,350 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:02,350 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:02,350 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:02,354 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:02,805 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:02,806 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:02,806 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:02,807 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:02,807 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:02,807 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:02,813 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:02,814 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:02,814 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:02,815 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:02,816 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:02,816 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:02,816 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:02,817 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:02,817 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:02,817 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:02,817 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:02,818 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:02,818 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:02,818 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:02,819 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:02,819 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:02,819 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:02,823 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:03,135 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:03,136 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:03,136 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:03,136 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:03,136 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:03,137 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:03,142 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:03,143 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:03,144 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:03,144 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:03,145 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:03,145 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:03,146 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:03,146 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:03,146 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:03,147 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:03,147 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:03,147 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:03,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:03,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:03,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:03,148 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:03,149 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:03,152 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:03,293 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:03,293 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:03,294 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:03,294 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:03,294 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:03,294 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:03,300 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:03,301 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:03,302 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:03,302 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:03,303 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:03,303 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:03,303 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:03,304 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:03,304 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:03,304 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:03,305 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:03,305 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:03,305 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:03,305 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:03,306 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:03,306 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:03,306 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:03,309 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:03,449 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:03,449 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:03,450 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:03,450 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:03,450 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:03,450 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:03,458 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:03,459 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:03,459 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:03,460 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:03,461 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:03,461 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:03,462 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:03,462 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:03,462 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:03,463 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:03,463 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:03,463 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:03,463 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:03,464 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:03,464 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:03,464 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:03,464 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:03,468 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:03,653 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:03,654 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:03,654 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:03,654 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:03,654 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:03,654 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:03,661 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:03,662 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:03,662 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:03,663 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:03,663 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:03,664 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:03,664 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:03,664 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:03,665 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:03,665 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:03,665 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:03,665 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:03,666 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:03,666 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:03,667 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:03,667 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:03,667 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:03,670 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:03,935 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:03,936 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:03,936 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:03,936 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:03,936 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:03,938 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:03,945 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:03,945 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:03,946 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:03,946 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:03,947 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:03,947 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:03,948 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:03,950 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:03,950 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:03,951 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:03,951 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:03,951 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:03,951 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:03,952 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:03,952 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:03,953 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:03,953 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:03,957 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:02:04,095 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:02:04,095 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:02:04,095 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:02:04,096 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:02:04,096 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:02:04,096 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:02:04,102 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:02:04,103 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:02:04,104 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:02:04,104 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:02:04,105 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:02:04,105 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:02:04,106 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:02:04,106 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:02:04,106 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:02:04,106 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:02:04,107 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:02:04,107 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:02:04,107 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:02:04,108 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:02:04,108 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:02:04,108 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:02:04,108 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:02:04,112 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:12:54,244 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:12:54,244 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:12:54,244 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:12:54,244 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:12:54,245 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:12:54,245 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:12:54,252 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:12:54,253 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:12:54,254 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:12:54,255 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:12:54,255 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:12:54,256 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:12:54,256 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:12:54,256 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:12:54,257 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:12:54,257 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:12:54,257 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:12:54,257 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:12:54,258 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:12:54,258 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:12:54,258 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:12:54,259 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:12:54,259 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:12:54,262 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-01-31 15:14:19,873 - INFO - preprocessing TRAIN - Applied KNNImputer to numerical columns
+2026-01-31 15:14:19,873 - INFO - preprocessing TRAIN - Applied MODE imputer to column: gender
+2026-01-31 15:14:19,874 - INFO - preprocessing TRAIN - Applied MODE imputer to column: workout_type
+2026-01-31 15:14:19,874 - INFO - preprocessing TRAIN - Applied MODE imputer to column: age_category
+2026-01-31 15:14:19,874 - INFO - preprocessing TRAIN - Applied MODE imputer to column: weight_category
+2026-01-31 15:14:19,874 - INFO - preprocessing TRAIN - Applied MODE imputer to column: bmi_category
+2026-01-31 15:14:19,878 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-01-31 15:14:19,878 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-01-31 15:14:19,879 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-01-31 15:14:19,879 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-01-31 15:14:19,879 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: weekly_cardio_load
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_height_ratio
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: bmi_age_interaction
+2026-01-31 15:14:19,880 - INFO - preprocessing TRAIN - Applied log1p transformation to: weight_age_ratio
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: fat_risk_score
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: water_per_session
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: hydration_score
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_intensity_ratio
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
+2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
+2026-01-31 15:14:19,883 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler

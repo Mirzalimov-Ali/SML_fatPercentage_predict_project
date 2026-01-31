@@ -1,151 +1,75 @@
-import pandas as pd
-
-from sklearn.linear_model import LinearRegression
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, ExtraTreesRegressor, HistGradientBoostingRegressor, AdaBoostRegressor
-from sklearn.svm import SVR
-from sklearn.neighbors import KNeighborsRegressor
-import xgboost
-
-from sklearn.linear_model import LassoCV, RidgeCV, ElasticNetCV
-
-
-from tabulate import tabulate
-from rich.console import Console
-from rich.table import Table
-
-
-from joblib import dump
 import os
-from src.training import Trainer
-
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import AdaBoostRegressor
+from sklearn.model_selection import KFold, cross_val_score
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from joblib import dump
 from src.logger import get_logger
+from rich.table import Table
+from rich.console import Console
 
-logger = get_logger('use_train', 'model_training.log')
+# ===================== PATH =====================
+os.chdir(r'C:\SML_Projects\SML_gym_fatPercentage_predict_project')
 
-# ____________________________________________ Single Split __________________________________________________
+logger = get_logger('use_training', 'training.log')
 
-df = pd.read_csv('data/final/final_gym_dataset.csv')
+# ===================== DATA LOAD =====================
+x_train = pd.read_csv('data/preprocessed/preprocessed_x_train.csv')
+x_test  = pd.read_csv('data/preprocessed/preprocessed_x_test.csv')
 
-try:
-    x = df.drop('fat_percentage', axis=1)
-    y = df['fat_percentage']
+y_train = pd.read_csv('data/split/y_train.csv').values.ravel()
+y_test  = pd.read_csv('data/split/y_test.csv').values.ravel()
 
-    logger.info(f"Dataset loaded with shape {df.shape}")
+logger.info("Data loaded successfully")
 
-except Exception as e:
-    logger.error(f'Error during single split: {str(e)}')
+kf = KFold(n_splits=3, shuffle=True, random_state=42)
 
-# _____________________________________________ train model __________________________________________________
+# ===================== FIT =====================
+model = AdaBoostRegressor(n_estimators=300, learning_rate=0.05, random_state=42)
+model.fit(x_train, y_train)
 
-try:
-    models = [
-        LinearRegression(),
-        LassoCV(cv=10, random_state=42),
-        RidgeCV(cv=10),
-        ElasticNetCV(cv=10, random_state=42),
-        DecisionTreeRegressor(random_state=42),
-        RandomForestRegressor(random_state=42, n_estimators=200),
-        GradientBoostingRegressor(random_state=42),
-        HistGradientBoostingRegressor(random_state=42),
-        ExtraTreesRegressor(random_state=42),
-        AdaBoostRegressor(random_state=42),
-        xgboost.XGBRegressor(random_state=42),
-        SVR(kernel='rbf', C=20.0),
-        KNeighborsRegressor(n_neighbors=10)
-    ]
+logger.info("Best AdaBoostRegressor trained")
 
-    results = []
-    best_r2 = -float("inf") # eng kichkina mumkun bulgan infinity son
-    best_trained_model = None   # object
-    best_model_name = ""    # joblibga save qilyotkanda modelni name
+# ===================== EVALUATION =====================
+y_pred = model.predict(x_test)
 
-    for model in models:
-        trainer = Trainer(model, x, y)
-        trainer.train().evaluate()
+mae = mean_absolute_error(y_test, y_pred)
+mse = mean_squared_error(y_test, y_pred)
+rmse = np.sqrt(mse)
+r2 = r2_score(y_test, y_pred)
 
-        results.append([model.__class__.__name__, trainer.r2, trainer.mae, trainer.kfold.mean(), trainer.kfold.std()])
+cv_scores = cross_val_score(
+    model,
+    x_train,
+    y_train,
+    cv=kf,
+    scoring="r2",
+    n_jobs=-1
+)
 
-        dump(trainer.model, f'model/{model.__class__.__name__}.joblib')
+kf_mean = cv_scores.mean()
+kf_std = cv_scores.std()
 
-        if trainer.r2 > best_r2:
-            best_r2 = trainer.r2
-            best_trained_model = trainer.model
-            best_model_name = model.__class__.__name__
+# ===================== SAVE PIPELINE =====================
+os.makedirs('pipeline', exist_ok=True)
+dump(model, 'pipeline/final_pipeline.joblib', compress=3)
 
-except Exception as e:
-    logger.error(f'Error during train all models: {str(e)}')
+logger.info("Final regression model saved")
 
-# ______________________________________________ compare table ____________________________________________________
-
+# ===================== RESULTS TABLE =====================
 console = Console()
+temp_console = Console(record=True)
 
-results_sorted = sorted(results, key=lambda i: i[1], reverse=True) # r2 buyicha sort qilish
+table = Table(title="AdaBoost Results", show_lines=True)
+for col in ["Algorithm", "R2", "MAE", "MSE", "RMSE", "K-Fold mean", "K-Fold std"]:
+    table.add_column(col)
 
-best_model = results_sorted[0]
-worst_model = results_sorted[-1]
+table.add_row("AdaBoost", f"{r2:.2f}", f"{mae:.2f}", f"{mse:.2f}", f"{rmse:.2f}", f"{kf_mean:.2f}", f"{kf_std:.2f}")
+temp_console.print(table)
 
-table = Table(title="Model Compare", show_lines=True)
+with open("results/final_results.txt", "w", encoding="utf-8") as f:
+    f.write(temp_console.export_text())
+logger.info("Comparison table saved at results/final_results.txt")
 
-table.add_column("Algorithm")
-table.add_column("R2 score")
-table.add_column("Mean Absolute Error", justify="right")
-table.add_column("K-Fold Mean", justify="right")
-table.add_column("K-Fold Std", justify="right")
-
-try:
-    for row in results_sorted:
-        algo, r2, mae, kmean, kstd = row
-
-        if row == best_model:
-            table.add_row(
-                f"[bold green]{algo}[/bold green]",
-                f"[bold green]{r2:.3f}[/bold green]",
-                f"[bold green]{mae:.3f}[/bold green]",
-                f"[bold green]{kmean:.3f}[/bold green]",
-                f"[bold green]{kstd:.3f}[/bold green]"
-            )
-        elif row == worst_model:
-            table.add_row(
-                f"[bold red]{algo}[/bold red]",
-                f"[bold red]{r2:.3f}[/bold red]",
-                f"[bold red]{mae:.3f}[/bold red]",
-                f"[bold red]{kmean:.3f}[/bold red]",
-                f"[bold red]{kstd:.3f}[/bold red]"
-            )
-        else:
-            table.add_row(algo, f"{r2:.3f}", f"{mae:.3f}", f"{kmean:.3f}", f"{kstd:.3f}")
-            
-    logger.info(f"\n{table}")
-
-except Exception as e:
-    logger.error(f'Error during create table: {str(e)}')
-
-# ___________________________________________ save comparison _________________________________________________
-
-try:
-    def SaveComparison(table):
-        temp_console = Console(record=True)   # vaqtincha console (shu console orqali chiqargan hammanarsa memoryda save buladi)
-        temp_console.print(table)             # aynan tableni chiqaramiz
-        text = temp_console.export_text()     # table object bulgani uchun buni text kurinishga apkelamiz
-        with open('results/all_model_compare.txt', 'w', encoding='utf-8') as f:
-            f.write(text)
-
-    SaveComparison(table)
-    logger.info(f"Comparison table saved at results/all_model_compare.txt")
-
-    table_log = tabulate(results_sorted, headers=['Algorithm', 'R2', 'MAE', 'K-Fold Mean', 'K-Fold Std'], tablefmt='grid', floatfmt='.3f')
-    logger.info(f'\n{table_log}')
-
-except Exception as e:
-    logger.error(f'Error during save table comparison of all models: {str(e)}')
-
-# ___________________________________________ save best model _________________________________________________
-
-if best_trained_model is not None:
-    os.makedirs('model/best', exist_ok=True)
-    save_path = f'model/best/{best_model_name}.joblib'
-    dump(best_trained_model, save_path)
-    logger.info(f"Best model '{best_model_name}' saved successfully at '{save_path}' with r2={best_r2}")
-else:
-    logger.error("No model was selected to save. Check the training loop.")
+print("Results saved to results/final_results.txt")

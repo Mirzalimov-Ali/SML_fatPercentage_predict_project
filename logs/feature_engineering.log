@@ -986,3 +986,1189 @@
 
 [973 rows x 37 columns]>
 2025-10-08 20:07:58,692 - INFO - use_feature_engineering - file created to path: data/final\final_gym_dataset.csv
+2025-10-08 21:28:49,992 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (1, 17)
+2025-10-08 21:28:49,993 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:28:49,993 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:28:49,993 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:28:49,993 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:28:49,993 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:28:49,993 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 22)
+2025-10-08 21:30:08,860 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (1, 17)
+2025-10-08 21:30:08,862 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:30:08,862 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:30:08,862 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:30:08,862 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:30:08,862 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:30:08,862 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 22)
+2025-10-08 21:30:24,258 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (1, 17)
+2025-10-08 21:30:24,258 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:30:24,259 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:30:24,259 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:30:24,259 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:30:24,259 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:30:24,259 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 22)
+2025-10-08 21:31:19,259 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (1, 17)
+2025-10-08 21:31:19,259 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:31:19,260 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:31:19,260 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:31:19,260 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:31:19,260 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:31:19,260 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 22)
+2025-10-08 21:31:40,053 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (1, 17)
+2025-10-08 21:31:40,053 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:31:40,053 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:31:40,053 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:31:40,054 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:31:40,054 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:31:40,054 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 22)
+2025-10-08 21:34:01,274 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 19)
+2025-10-08 21:34:01,275 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:34:01,275 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:34:01,275 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:34:01,275 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:34:01,275 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:34:01,275 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 24)
+2025-10-08 21:35:41,454 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:35:41,454 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:35:41,454 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:35:41,455 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:35:41,455 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:35:41,455 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:35:41,455 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:36:11,773 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:36:11,774 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:36:11,774 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:36:11,774 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:36:11,774 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:36:11,774 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:36:11,774 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:36:12,650 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:36:12,650 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:36:12,651 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:36:12,651 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:36:12,651 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:36:12,651 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:36:12,651 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:36:13,121 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:36:13,121 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:36:13,122 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:36:13,122 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:36:13,122 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:36:13,122 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:36:13,122 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:36:13,496 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:36:13,497 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:36:13,497 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:36:13,497 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:36:13,497 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:36:13,498 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:36:13,498 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:37:30,492 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:37:30,492 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:37:30,493 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:37:30,493 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:37:30,493 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:37:30,493 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:37:30,493 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:37:31,193 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:37:31,193 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:37:31,193 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:37:31,194 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:37:31,194 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:37:31,194 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:37:31,194 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:37:31,475 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:37:31,476 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:37:31,476 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:37:31,476 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:37:31,476 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:37:31,477 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:37:31,477 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:37:31,741 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:37:31,741 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:37:31,742 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:37:31,742 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:37:31,742 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:37:31,742 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:37:31,742 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:39:56,387 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:39:56,387 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:39:56,388 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:39:56,388 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:39:56,388 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:39:56,388 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:39:56,388 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:06,044 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:06,045 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:06,045 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:06,045 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:06,045 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:06,045 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:06,045 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:31,105 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:31,105 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:31,105 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:31,107 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:31,107 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:31,107 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:31,107 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:33,332 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:33,332 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:33,332 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:33,332 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:33,333 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:33,333 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:33,333 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:33,786 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:33,786 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:33,786 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:33,787 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:33,787 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:33,787 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:33,787 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:39,995 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:39,995 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:39,996 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:39,996 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:39,996 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:39,996 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:39,996 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:48,037 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:48,038 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:48,038 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:48,038 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:48,038 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:48,038 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:48,038 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:54,044 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:54,044 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:54,044 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:54,044 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:54,045 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:54,045 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:54,045 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:40:58,791 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:40:58,791 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:40:58,792 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:40:58,792 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:40:58,792 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:40:58,792 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:40:58,792 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:41:11,818 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:41:11,818 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:41:11,819 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:41:11,819 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:41:11,819 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:41:11,819 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:41:11,819 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:41:17,559 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:41:17,560 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:41:17,560 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:41:17,560 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:41:17,560 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:41:17,562 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:41:17,562 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:41:23,593 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:41:23,594 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:41:23,594 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:41:23,594 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:41:23,594 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:41:23,595 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:41:23,595 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-10-08 21:43:43,739 - INFO - feature_engineering - FeatureCreation initialized with dataset shape: (2, 20)
+2025-10-08 21:43:43,740 - INFO - feature_engineering - Feature 'hrr' created
+2025-10-08 21:43:43,740 - INFO - feature_engineering - Feature 'intensity' created
+2025-10-08 21:43:43,740 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-10-08 21:43:43,740 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-10-08 21:43:43,740 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-10-08 21:43:43,740 - INFO - feature_engineering - All features created successfully. Dataset shape now: (2, 25)
+2025-12-13 11:59:30,728 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 11:59:30,728 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 11:59:30,729 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 11:59:30,729 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 11:59:30,729 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 11:59:30,729 - INFO - feature_engineering - All features created successfully. Dataset shape now: (973, 23)
+2025-12-13 11:59:30,729 - INFO - feature_engineering - New engineered features successfully added.
+2025-12-13 11:59:30,729 - INFO - use_feature_engineering - Engineering steps completed successfully.
+2025-12-13 11:59:30,735 - INFO - use_feature_engineering - Engineered dataset saved to data/engineered/engineered_dataset.csv
+2025-12-13 11:59:30,736 - INFO - use_feature_engineering - Engineering pipeline saved to pipeline/feature_pipeline.joblib
+2025-12-13 11:59:30,736 - INFO - use_feature_engineering - Successfully engineered the dataset and saved all outputs!
+2025-12-13 13:16:34,273 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:16:34,273 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:16:34,273 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:16:34,274 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:16:34,274 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:16:34,274 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:16:34,274 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:16:34,274 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:16:34,275 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:16:34,276 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:16:34,276 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:16:34,276 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:16:34,276 - INFO - feature_engineering - All features created successfully. Dataset shape now: (973, 36)
+2025-12-13 13:16:34,276 - INFO - use_feature_engineering - Engineering steps completed successfully.
+2025-12-13 13:16:34,289 - INFO - use_feature_engineering - Engineered dataset saved to data/engineered/engineered_dataset.csv
+2025-12-13 13:16:34,289 - INFO - use_feature_engineering - Engineering pipeline saved to pipeline/feature_pipeline.joblib
+2025-12-13 13:16:34,289 - INFO - use_feature_engineering - Successfully engineered the dataset and saved all outputs!
+2025-12-13 13:20:57,482 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:20:57,483 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:20:57,483 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:20:57,484 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:20:57,484 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:20:57,485 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:20:57,485 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:20:57,485 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:20:57,486 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:20:57,486 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:20:57,486 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:20:57,487 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:20:57,487 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:20:57,487 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:20:57,487 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:20:57,488 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:20:57,488 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:20:57,488 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:20:57,488 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:21:00,759 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:21:00,759 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:21:00,759 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:21:00,760 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:21:00,760 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:21:00,760 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:21:00,760 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:21:00,761 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:21:00,761 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:21:00,761 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:21:00,762 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:21:00,762 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:21:00,762 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:21:00,762 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:21:00,763 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:21:00,763 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:21:00,763 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:21:00,763 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:21:00,763 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:21:15,962 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:21:15,962 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:21:15,963 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:21:15,963 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:21:15,963 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:21:15,963 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:21:15,964 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:21:15,964 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:21:15,964 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:21:15,964 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:21:15,964 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:21:15,965 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:21:15,966 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:21:15,966 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:21:23,097 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:21:23,098 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:21:23,098 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:21:23,098 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:21:23,098 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:21:23,098 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:21:23,099 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:21:23,099 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:21:23,099 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:21:23,099 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:21:23,100 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:21:23,100 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:21:23,100 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:21:23,100 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:21:23,101 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:21:23,101 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:21:23,101 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:21:23,102 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:21:23,102 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:22:29,452 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:22:29,453 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:22:29,453 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:22:29,453 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:22:29,454 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:22:29,454 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:22:29,454 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:22:29,454 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:22:29,455 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:22:29,455 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:22:29,455 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:22:29,455 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:22:29,456 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:22:29,456 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:22:29,456 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:22:29,456 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:22:29,456 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:22:29,457 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:22:29,457 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:23:53,647 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:23:53,648 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:23:53,648 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:23:53,648 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:23:53,648 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:23:53,649 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:23:53,649 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:23:53,649 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:23:53,650 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:23:53,650 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:23:53,650 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:23:53,650 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:23:53,651 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:23:53,651 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:23:53,651 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:23:53,651 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:23:53,652 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:23:53,652 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:23:53,652 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:24:00,504 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:24:00,505 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:24:00,505 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:24:00,505 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:24:00,505 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:24:00,506 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:24:00,506 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:24:00,506 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:24:00,507 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:24:00,507 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:24:00,507 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:24:00,508 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:24:00,508 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:24:00,508 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:24:00,508 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:24:00,509 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:24:00,509 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:24:00,509 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:24:00,509 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:24:06,351 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:24:06,351 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:24:06,351 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:24:06,352 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:24:06,352 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:24:06,352 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:24:06,353 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:24:06,353 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:24:06,353 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:24:06,353 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:24:06,354 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:24:06,354 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:24:06,354 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:24:06,354 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:24:06,355 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:24:06,355 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:24:06,355 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:24:06,356 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:24:06,356 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:24:09,960 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:24:09,960 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:24:09,960 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:24:09,961 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:24:09,961 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:24:09,961 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:24:09,961 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:24:09,962 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:24:09,962 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:24:09,962 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:24:09,962 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:24:09,963 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:24:09,963 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:24:09,963 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:24:09,963 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:24:09,964 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:24:09,964 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:24:09,964 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:24:09,964 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:24:13,182 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:24:13,182 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:24:13,182 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:24:13,183 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:24:13,183 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:24:13,183 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:24:13,183 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:24:13,184 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:24:13,184 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:24:13,184 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:24:13,185 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:24:13,185 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:24:13,185 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:24:13,185 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:24:13,186 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:24:13,186 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:24:13,186 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:24:13,187 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:24:13,187 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2025-12-13 13:25:37,052 - INFO - feature_engineering - Feature 'hrr' created
+2025-12-13 13:25:37,053 - INFO - feature_engineering - Feature 'intensity' created
+2025-12-13 13:25:37,053 - INFO - feature_engineering - Feature 'cardio_load' created
+2025-12-13 13:25:37,053 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2025-12-13 13:25:37,054 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2025-12-13 13:25:37,054 - INFO - feature_engineering - Feature 'calories_per_min' created
+2025-12-13 13:25:37,054 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2025-12-13 13:25:37,054 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2025-12-13 13:25:37,055 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2025-12-13 13:25:37,055 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2025-12-13 13:25:37,055 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2025-12-13 13:25:37,055 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2025-12-13 13:25:37,056 - INFO - feature_engineering - Feature 'water_per_session' created
+2025-12-13 13:25:37,056 - INFO - feature_engineering - Feature 'water_per_kg' created
+2025-12-13 13:25:37,056 - INFO - feature_engineering - Feature 'hydration_score' created
+2025-12-13 13:25:37,056 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2025-12-13 13:25:37,057 - INFO - feature_engineering - Feature 'experience_load' created
+2025-12-13 13:25:37,057 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2025-12-13 13:25:37,057 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 14:50:04,315 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 14:50:04,316 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 14:50:04,316 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 14:50:04,316 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 14:50:04,317 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 14:50:04,318 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 14:50:04,319 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 14:50:04,319 - INFO - feature_engineering - All features created successfully. Dataset shape now: (778, 35)
+2026-01-31 14:50:04,319 - INFO - use_feature_engineering - Feature engineering completed for TRAIN dataset.
+2026-01-31 14:50:04,319 - INFO - use_feature_engineering - Feature engineering pipeline saved to pipeline/feature_engineering.joblib
+2026-01-31 14:50:04,319 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 14:50:04,319 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 14:50:04,320 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 14:50:04,321 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 14:50:04,322 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 14:50:04,322 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 14:50:04,322 - INFO - feature_engineering - All features created successfully. Dataset shape now: (195, 35)
+2026-01-31 14:50:04,322 - INFO - use_feature_engineering - Feature engineering completed for TEST dataset.
+2026-01-31 14:50:04,333 - INFO - use_feature_engineering - Engineered dataset saved to data/engineered/engineered_x_train.csv
+2026-01-31 14:50:04,336 - INFO - use_feature_engineering - Engineered dataset saved to data/engineered/engineered_x_test.csv
+2026-01-31 14:50:04,336 - INFO - use_feature_engineering - Successfully engineered the dataset and saved all outputs!
+2026-01-31 14:51:05,573 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 14:51:05,574 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 14:51:05,574 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 14:51:05,575 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 14:51:05,575 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 14:51:05,575 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 14:51:05,576 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 14:51:05,576 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 14:51:05,576 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 14:51:05,577 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 14:51:05,577 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 14:51:05,577 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 14:51:05,578 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 14:51:05,578 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 14:51:05,578 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 14:51:05,578 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 14:51:05,579 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 14:51:05,579 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 14:51:05,579 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 14:59:59,226 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 14:59:59,227 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 14:59:59,227 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 14:59:59,228 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 14:59:59,228 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 14:59:59,228 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 14:59:59,229 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 14:59:59,229 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 14:59:59,229 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 14:59:59,230 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 14:59:59,230 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 14:59:59,230 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 14:59:59,231 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 14:59:59,231 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 14:59:59,231 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 14:59:59,231 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 14:59:59,232 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 14:59:59,232 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 14:59:59,232 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:21,326 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:21,327 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:21,328 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:21,328 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:21,328 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:21,328 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:21,328 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:24,857 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:24,857 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:24,858 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:24,858 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:24,858 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:24,858 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:24,859 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:24,859 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:24,859 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:24,859 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:24,860 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:24,860 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:24,860 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:24,860 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:24,861 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:24,861 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:24,861 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:24,861 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:24,862 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:29,321 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:29,321 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:29,322 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:29,322 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:29,322 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:29,322 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:29,323 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:29,323 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:29,323 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:29,323 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:29,324 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:29,324 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:29,324 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:29,324 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:29,325 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:29,325 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:29,325 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:29,326 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:29,326 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:34,643 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:34,643 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:34,643 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:34,644 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:34,644 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:34,644 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:34,644 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:34,645 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:34,645 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:34,645 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:34,645 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:34,646 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:34,646 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:34,646 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:34,646 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:34,647 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:34,647 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:34,647 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:34,647 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:42,891 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:42,892 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:42,892 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:42,892 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:42,892 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:42,893 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:42,893 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:42,893 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:42,893 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:42,894 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:42,894 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:42,894 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:42,895 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:42,895 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:42,895 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:42,895 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:42,896 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:42,896 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:42,896 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:45,963 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:45,963 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:45,964 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:45,964 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:45,964 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:45,965 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:45,965 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:45,965 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:45,966 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:45,966 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:45,966 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:45,967 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:45,967 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:45,967 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:45,967 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:45,968 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:45,968 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:45,968 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:45,968 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:48,138 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:48,139 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:48,140 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:48,140 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:48,140 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:48,140 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:48,141 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:48,141 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:48,141 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:48,142 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:48,142 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:48,142 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:48,142 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:48,142 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:50,537 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:50,537 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:50,537 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:50,538 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:50,538 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:50,538 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:50,538 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:50,539 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:50,539 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:50,539 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:50,540 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:50,540 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:50,540 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:50,540 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:50,541 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:50,541 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:50,541 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:50,542 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:50,542 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:55,407 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:55,407 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:55,407 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:55,407 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:55,408 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:55,408 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:55,408 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:55,408 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:55,409 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:55,409 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:55,409 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:55,410 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:55,410 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:55,410 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:55,410 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:55,411 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:55,411 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:55,411 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:55,411 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:00:58,515 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:00:58,516 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:00:58,516 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:00:58,516 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:00:58,517 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:00:58,517 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:00:58,517 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:00:58,518 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:00:58,518 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:00:58,518 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:00:58,518 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:00:58,519 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:00:58,520 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:00:58,520 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:00:58,520 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:00:58,520 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:00:58,521 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:00:58,521 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:00:58,521 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:01,764 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:01,764 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:01,764 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:01,764 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:01,765 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:01,766 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:05,116 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:05,116 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:05,117 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:05,117 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:05,117 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:05,118 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:05,118 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:05,118 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:05,118 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:05,119 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:05,119 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:05,119 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:05,119 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:05,120 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:07,205 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:07,205 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:07,205 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:07,206 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:07,206 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:07,206 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:07,206 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:07,207 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:07,207 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:07,207 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:07,207 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:07,208 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:07,208 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:07,208 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:07,208 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:07,209 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:07,209 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:07,209 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:07,209 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:08,689 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:08,689 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:08,689 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:08,690 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:08,690 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:08,690 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:08,691 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:08,691 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:08,691 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:08,691 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:08,692 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:08,692 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:08,692 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:08,692 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:08,693 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:08,693 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:08,693 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:08,694 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:08,694 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:14,033 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:14,033 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:14,034 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:14,034 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:14,035 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:14,035 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:14,035 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:14,036 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:14,036 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:14,036 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:14,036 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:14,037 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:14,037 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:14,037 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:14,038 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:14,038 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:14,038 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:14,039 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:14,039 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:19,031 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:19,031 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:19,031 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:19,031 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:19,032 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:19,032 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:19,032 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:19,032 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:19,032 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:19,033 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:19,034 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:19,034 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:23,347 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:23,347 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:23,348 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:23,349 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:23,350 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:23,350 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:29,160 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:29,160 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:29,160 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:29,160 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:29,161 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:29,163 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:29,163 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:29,164 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:29,164 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:29,164 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:29,164 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:29,165 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:29,167 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:29,167 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:29,168 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:29,168 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:29,168 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:29,169 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:29,169 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:31,662 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:31,662 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:31,662 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:31,662 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:31,662 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:31,663 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:31,664 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:31,664 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:31,664 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:31,664 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:31,665 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:31,665 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:31,665 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:31,665 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:31,666 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:31,666 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:31,666 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:31,666 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:31,667 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:34,898 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:34,898 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:34,899 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:34,899 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:34,899 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:34,900 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:34,900 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:34,900 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:34,900 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:34,901 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:34,901 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:34,901 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:34,901 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:34,902 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:34,902 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:34,902 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:34,902 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:34,903 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:34,903 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:37,566 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:37,566 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:37,567 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:37,567 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:37,567 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:37,567 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:37,568 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:37,568 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:37,568 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:37,568 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:37,569 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:37,569 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:37,569 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:37,570 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:37,570 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:37,570 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:37,570 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:37,571 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:37,571 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:45,722 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:45,722 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:45,723 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:45,723 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:45,723 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:45,723 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:45,725 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:45,725 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:45,725 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:45,726 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:45,726 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:45,726 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:45,726 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:45,727 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:45,727 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:45,727 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:45,728 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:45,728 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:45,728 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:01:52,390 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:01:52,390 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:01:52,390 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:01:52,391 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:01:52,391 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:01:52,391 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:01:52,391 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:01:52,392 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:01:52,392 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:01:52,392 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:01:52,392 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:01:52,393 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:01:52,393 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:01:52,393 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:01:52,394 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:01:52,394 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:01:52,394 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:01:52,394 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:01:52,394 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:01,238 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:01,239 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:01,239 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:01,239 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:01,240 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:01,240 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:01,240 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:01,240 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:01,241 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:01,241 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:01,241 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:01,241 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:01,242 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:01,242 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:01,242 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:01,242 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:01,243 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:01,243 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:01,243 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:01,832 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:01,833 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:01,833 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:01,833 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:01,833 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:01,834 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:01,834 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:01,835 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:01,835 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:01,835 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:01,836 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:01,836 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:01,836 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:01,836 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:02,337 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:02,337 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:02,337 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:02,338 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:02,338 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:02,338 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:02,338 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:02,339 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:02,339 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:02,340 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:02,340 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:02,340 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:02,341 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:02,342 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:02,342 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:02,343 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:02,343 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:02,343 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:02,343 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:02,808 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:02,808 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:02,808 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:02,809 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:02,809 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:02,809 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:02,809 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:02,810 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:02,810 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:02,810 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:02,810 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:02,811 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:02,811 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:02,811 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:02,811 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:02,812 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:02,812 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:02,812 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:02,812 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:03,137 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:03,137 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:03,137 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:03,137 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:03,138 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:03,138 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:03,138 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:03,138 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:03,139 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:03,139 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:03,139 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:03,140 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:03,140 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:03,140 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:03,141 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:03,141 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:03,141 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:03,141 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:03,141 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:03,295 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:03,295 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:03,295 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:03,296 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:03,296 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:03,296 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:03,296 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:03,297 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:03,297 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:03,297 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:03,297 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:03,298 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:03,298 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:03,298 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:03,298 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:03,299 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:03,299 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:03,299 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:03,299 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:03,451 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:03,451 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:03,451 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:03,452 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:03,452 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:03,452 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:03,453 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:03,453 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:03,453 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:03,453 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:03,454 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:03,454 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:03,455 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:03,455 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:03,456 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:03,456 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:03,456 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:03,456 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:03,456 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:03,655 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:03,655 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:03,656 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:03,656 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:03,656 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:03,656 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:03,657 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:03,657 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:03,657 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:03,657 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:03,658 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:03,658 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:03,658 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:03,659 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:03,659 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:03,659 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:03,659 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:03,660 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:03,660 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:03,939 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:03,939 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:03,940 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:03,940 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:03,940 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:03,941 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:03,941 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:03,941 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:03,942 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:03,942 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:03,942 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:03,942 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:03,943 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:03,943 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:03,943 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:03,943 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:03,944 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:03,944 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:03,944 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:02:04,096 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:02:04,097 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:02:04,097 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:02:04,097 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:02:04,098 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:02:04,098 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:02:04,098 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:02:04,098 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:02:04,099 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:02:04,099 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:02:04,099 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:02:04,099 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:02:04,100 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:02:04,100 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:02:04,100 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:02:04,101 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:02:04,101 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:02:04,101 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:02:04,101 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:12:54,246 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:12:54,246 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:12:54,246 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:12:54,247 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:12:54,247 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:12:54,247 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:12:54,248 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:12:54,248 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:12:54,248 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:12:54,249 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:12:54,249 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:12:54,250 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:12:54,250 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:12:54,250 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:12:54,250 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:12:54,251 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:12:54,251 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:12:54,251 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:12:54,251 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
+2026-01-31 15:14:19,874 - INFO - feature_engineering - Feature 'hrr' created
+2026-01-31 15:14:19,875 - INFO - feature_engineering - Feature 'intensity' created
+2026-01-31 15:14:19,875 - INFO - feature_engineering - Feature 'cardio_load' created
+2026-01-31 15:14:19,875 - INFO - feature_engineering - Feature 'weekly_cardio_load' created
+2026-01-31 15:14:19,875 - INFO - feature_engineering - Feature 'bpm_efficiency' created
+2026-01-31 15:14:19,875 - INFO - feature_engineering - Feature 'calories_per_min' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'calories_per_kg' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'fat_burn_efficiency' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'weight_height_ratio' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'bmi_age_interaction' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'weight_age_ratio' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'fat_risk_score' created
+2026-01-31 15:14:19,876 - INFO - feature_engineering - Feature 'water_per_session' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - Feature 'water_per_kg' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - Feature 'hydration_score' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - Feature 'experience_intensity_ratio' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - Feature 'experience_load' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - Feature 'experience_frequency_score' created
+2026-01-31 15:14:19,877 - INFO - feature_engineering - All features created successfully. Dataset shape now: (1, 35)
