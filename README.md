@@ -20,7 +20,6 @@ Project **regression** turiga kiradi, yani maqsadimiz **sonli (continuous) qiyma
 
 ---
 
-
 📊 **Dataset**
 Datasetda sport zaliga boruvchi odamlar buyicha malumotlar mavjud va quyidagi ustunlarni uz ichiga oladi:
 
