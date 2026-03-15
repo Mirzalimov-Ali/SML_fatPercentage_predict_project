@@ -1706,3 +1706,99 @@ dtype: int64
 2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_load
 2026-01-31 15:14:19,881 - INFO - preprocessing TRAIN - Applied log1p transformation to: experience_frequency_score
 2026-01-31 15:14:19,883 - INFO - preprocessing TRAIN - Scaled numerical columns using StandardScaler
+2026-03-15 12:10:51,892 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-03-15 12:10:51,893 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-03-15 12:10:51,894 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-03-15 12:10:51,895 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-03-15 12:10:51,895 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-03-15 12:10:51,896 - INFO - preprocessing TRAIN - All categorical features encoded using Ordinal Encoding.
+2026-03-15 12:10:51,898 - INFO - preprocessing TRAIN - Log transformation applied to: ['weight', 'bmi', 'bmi_category', 'weekly_cardio_load', 'weight_height_ratio', 'bmi_age_interaction', 'weight_age_ratio', 'fat_risk_score', 'water_per_session', 'hydration_score', 'experience_intensity_ratio', 'experience_load', 'experience_frequency_score']
+2026-03-15 12:10:51,900 - INFO - preprocessing TRAIN - Numerical scaling applied to 35 columns using StandardScaler()
+2026-03-15 12:10:51,901 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:10:51,903 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprodessed_pipeline.joblib
+2026-03-15 12:10:51,904 - INFO - preprocessing TEST - [TEST] Ordinal encoded: gender
+2026-03-15 12:10:51,904 - INFO - preprocessing TEST - [TEST] Ordinal encoded: workout_type
+2026-03-15 12:10:51,904 - INFO - preprocessing TEST - [TEST] Ordinal encoded: age_category
+2026-03-15 12:10:51,905 - INFO - preprocessing TEST - [TEST] Ordinal encoded: weight_category
+2026-03-15 12:10:51,905 - INFO - preprocessing TEST - [TEST] Ordinal encoded: bmi_category
+2026-03-15 12:10:51,905 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weekly_cardio_load
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_height_ratio
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi_age_interaction
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_age_ratio
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: fat_risk_score
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: water_per_session
+2026-03-15 12:10:51,906 - INFO - preprocessing TEST - [TEST] Applied log1p to column: hydration_score
+2026-03-15 12:10:51,907 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_intensity_ratio
+2026-03-15 12:10:51,907 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_load
+2026-03-15 12:10:51,907 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_frequency_score
+2026-03-15 12:10:51,909 - INFO - preprocessing TEST - [TEST] Scaled numeric columns using StandardScaler
+2026-03-15 12:10:51,909 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:10:51,926 - INFO - use_preprocessing - reprocessed dataset saved to data/preprocessed/preprocessed_x_train.csv
+2026-03-15 12:10:51,930 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_x_test.csv
+2026-03-15 12:10:51,930 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!
+2026-03-15 12:11:03,566 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-03-15 12:11:03,567 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-03-15 12:11:03,568 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-03-15 12:11:03,569 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-03-15 12:11:03,570 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-03-15 12:11:03,570 - INFO - preprocessing TRAIN - All categorical features encoded using Ordinal Encoding.
+2026-03-15 12:11:03,572 - INFO - preprocessing TRAIN - Log transformation applied to: ['weight', 'bmi', 'bmi_category', 'weekly_cardio_load', 'weight_height_ratio', 'bmi_age_interaction', 'weight_age_ratio', 'fat_risk_score', 'water_per_session', 'hydration_score', 'experience_intensity_ratio', 'experience_load', 'experience_frequency_score']
+2026-03-15 12:11:03,574 - INFO - preprocessing TRAIN - Numerical scaling applied to 35 columns using StandardScaler()
+2026-03-15 12:11:03,574 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:11:03,577 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprodessed_pipeline.joblib
+2026-03-15 12:11:03,577 - INFO - preprocessing TEST - [TEST] Ordinal encoded: gender
+2026-03-15 12:11:03,578 - INFO - preprocessing TEST - [TEST] Ordinal encoded: workout_type
+2026-03-15 12:11:03,578 - INFO - preprocessing TEST - [TEST] Ordinal encoded: age_category
+2026-03-15 12:11:03,579 - INFO - preprocessing TEST - [TEST] Ordinal encoded: weight_category
+2026-03-15 12:11:03,579 - INFO - preprocessing TEST - [TEST] Ordinal encoded: bmi_category
+2026-03-15 12:11:03,579 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight
+2026-03-15 12:11:03,579 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weekly_cardio_load
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_height_ratio
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi_age_interaction
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_age_ratio
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: fat_risk_score
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: water_per_session
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: hydration_score
+2026-03-15 12:11:03,580 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_intensity_ratio
+2026-03-15 12:11:03,581 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_load
+2026-03-15 12:11:03,581 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_frequency_score
+2026-03-15 12:11:03,582 - INFO - preprocessing TEST - [TEST] Scaled numeric columns using StandardScaler
+2026-03-15 12:11:03,582 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:11:03,600 - INFO - use_preprocessing - reprocessed dataset saved to data/preprocessed/preprocessed_x_train.csv
+2026-03-15 12:11:03,606 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_x_test.csv
+2026-03-15 12:11:03,606 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!
+2026-03-15 12:11:53,450 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: gender
+2026-03-15 12:11:53,451 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: workout_type
+2026-03-15 12:11:53,452 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: age_category
+2026-03-15 12:11:53,453 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: weight_category
+2026-03-15 12:11:53,453 - INFO - preprocessing TRAIN - Applied Ordinal Encoding to column: bmi_category
+2026-03-15 12:11:53,453 - INFO - preprocessing TRAIN - All categorical features encoded using Ordinal Encoding.
+2026-03-15 12:11:53,455 - INFO - preprocessing TRAIN - Log transformation applied to: ['weight', 'bmi', 'bmi_category', 'weekly_cardio_load', 'weight_height_ratio', 'bmi_age_interaction', 'weight_age_ratio', 'fat_risk_score', 'water_per_session', 'hydration_score', 'experience_intensity_ratio', 'experience_load', 'experience_frequency_score']
+2026-03-15 12:11:53,458 - INFO - preprocessing TRAIN - Numerical scaling applied to 35 columns using StandardScaler()
+2026-03-15 12:11:53,458 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:11:53,460 - INFO - use_preprocessing - Preprocessing pipeline saved to pipeline/preprodessed_pipeline.joblib
+2026-03-15 12:11:53,461 - INFO - preprocessing TEST - [TEST] Ordinal encoded: gender
+2026-03-15 12:11:53,461 - INFO - preprocessing TEST - [TEST] Ordinal encoded: workout_type
+2026-03-15 12:11:53,461 - INFO - preprocessing TEST - [TEST] Ordinal encoded: age_category
+2026-03-15 12:11:53,462 - INFO - preprocessing TEST - [TEST] Ordinal encoded: weight_category
+2026-03-15 12:11:53,462 - INFO - preprocessing TEST - [TEST] Ordinal encoded: bmi_category
+2026-03-15 12:11:53,462 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight
+2026-03-15 12:11:53,462 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weekly_cardio_load
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_height_ratio
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: bmi_age_interaction
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: weight_age_ratio
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: fat_risk_score
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: water_per_session
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: hydration_score
+2026-03-15 12:11:53,463 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_intensity_ratio
+2026-03-15 12:11:53,464 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_load
+2026-03-15 12:11:53,464 - INFO - preprocessing TEST - [TEST] Applied log1p to column: experience_frequency_score
+2026-03-15 12:11:53,466 - INFO - preprocessing TEST - [TEST] Scaled numeric columns using StandardScaler
+2026-03-15 12:11:53,466 - INFO - use_preprocessing - Preprocessing steps completed successfully.
+2026-03-15 12:11:53,482 - INFO - use_preprocessing - reprocessed dataset saved to data/preprocessed/preprocessed_x_train.csv
+2026-03-15 12:11:53,487 - INFO - use_preprocessing - Preprocessed dataset saved to data/preprocessed/preprocessed_x_test.csv
+2026-03-15 12:11:53,487 - INFO - use_preprocessing - Successfully preprocessed the dataset and saved all outputs!

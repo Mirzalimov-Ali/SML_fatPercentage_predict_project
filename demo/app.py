@@ -177,21 +177,21 @@ with gr.Blocks(css=CUSTOM_CSS, theme=gr.themes.Soft()) as demo:
     # ================= Inputs =================
     with gr.Row():
         with gr.Column():
-            age = gr.Number(label="Age", value=24)
-            weight = gr.Number(label="Weight (kg)", value=78.3)
+            age = gr.Number(label="Age", value=19)
+            weight = gr.Number(label="Weight (kg)", value=80)
             max_bpm = gr.Number(label="Max BPM", value=160)
             resting_bpm = gr.Number(label="Resting BPM", value=60)   
-            session_duration = gr.Number(label="Session Duration (h)", value=1.69)
-            workout_type = gr.Dropdown(["Yoga", "Cardio", "Strength", "HIIT"], value="Yoga")
-            workout_frequency = gr.Number(label="Workout / week", value=4)
+            session_duration = gr.Number(label="Session Duration (h)", value=1.00)
+            workout_type = gr.Dropdown(["Yoga", "Cardio", "Strength", "HIIT"], value="Strength")
+            workout_frequency = gr.Number(label="Workout / week", value=3)
             bmi = gr.Number(label="BMI", value=23.2)
 
         with gr.Column():
             gender = gr.Dropdown(["Male", "Female"], value="Male")
-            height = gr.Number(label="Height (m)", value=1.71)
-            avg_bpm = gr.Number(label="Avg BPM", value=157)
-            calories_burned = gr.Number(label="Calories Burned", value=1313)
-            water_intake = gr.Number(label="Water Intake (L)", value=2.5)
+            height = gr.Number(label="Height (m)", value=1.80)
+            avg_bpm = gr.Number(label="Avg BPM", value=160)
+            calories_burned = gr.Number(label="Calories Burned", value=1200)
+            water_intake = gr.Number(label="Water Intake (L)", value=1.5)
             experience_level = gr.Number(label="Experience Level", value=3)
 
     # ================= Predict Button =================
