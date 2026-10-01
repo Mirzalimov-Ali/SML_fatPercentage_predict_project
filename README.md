@@ -122,5 +122,19 @@ Barcha grafiklar `visuals/` papkada saqlandi:
 git clone https://github.com/username/Gym_Fat_Percentage_Prediction.git
 cd Gym_Fat_Percentage_Prediction
 pip install -r requirements.txt
+```
+
+---
+
+🔹 **Run** - Run only files in scripts/ folder
+1) use_data_loader.py
+2) use_split_data.py
+3) use_filling.py
+4) use_feature_engineering.py
+5) use_preprocessing.py
+6) use_training.py
+7) use_join_pipelines.py
+
+---
 
 
